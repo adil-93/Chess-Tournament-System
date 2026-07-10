@@ -1,5 +1,5 @@
-# Project Link : http://localhost:8080/ChessTournamentSystem/ChessServlet
-# Github Link : https://github.com/adil-93/Chess-Tournament-System
+ Project Link : http://localhost:8080/ChessTournamentSystem/ChessServlet
+ Github Link : https://github.com/adil-93/Chess-Tournament-System
 
 # ♟️ Chess Tournament Management System
 
